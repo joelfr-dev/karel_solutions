@@ -1,37 +1,9 @@
 # Karel Solutions
 
-## Tasks
-  - [0.0.1 karelsFirstProgram](./karelsFirstProgram.md)
-  - [1.1.1 obtainArtifact](./obtainArtifact.md)
-  - [1.1.2 defuseOneBomb](./defuseOneBomb.md)
-  - [1.1.3 defuseTwoBombs](./defuseTwoBombs.md)
-  - [1.1.4 practiceHomeRun](./practiceHomeRun.md)
-  - [1.2.1 climbTheStairs](./climbTheStairs.md)
-  - [1.2.2 fillTheHoles](./fillTheHoles.md)
-  - [1.2.3 saveTheFlower](./saveTheFlower.md)
-  - [1.2.4 mowTheLawn](./mowTheLawn.md)
-  - [1.3.1 harvestTheField](./harvestTheField.md)
-  - [1.3.2 repairTheStreet](./repairTheStreet.md)
-  - [1.3.3 cleanTheRoom](./cleanTheRoom.md)
-  - [1.3.4 tileTheFloor](./tileTheFloor.md)
-  - [1.4.1 stealOlympicFire](./stealOlympicFire.md)
-  - [1.4.2 removeTheTiles](./removeTheTiles.md)
-  - [1.4.3 walkTheLabyrinth](./walkTheLabyrinth.md)
-  - [2.1.1 hangTheLampions](./hangTheLampions.md)
-  - [2.1.2 followTheSeeds](./followTheSeeds.md)
-  - [2.1.3 cleanTheTunnels](./cleanTheTunnels.md)
-  - [2.2.1 increment](./increment.md)
-  - [2.2.2 decrement](./problems/2.2.2%20decrement.md)
-  - [2.2.3 addSlow](./problems/2.2.3%20addSlow.md)
-  - [2.3.1 saveTheFlowers](./problems/2.3.1%20saveTheFlowers.md)
-  - [2.3.2 findTeddyBear](./problems/2.3.2%20findTeddyBear.md)
-  - [2.3.3 jumpTheHurdles](./problems/2.3.3%20jumpTheHurdles.md)
-  - [2.4.1 solveTheMaze](./problems/2.4.1%20solveTheMaze.md)
-  - [2.4.2 quantizeBits](./problems/2.4.2%20quantizeBits.md)
-  - [2.4.3 addFast](./problems/2.4.3%20addFast.md)
-  - [3.1.1 partyAgain](./problems/3.1.1%20partyAgain.md)
-  - [3.2.1 secureTheCave](./problems/3.2.1%20secureTheCave.md)
-  - [3.2.2 layAndRemoveTiles](./problems/3.2.2%20layAndRemoveTiles.md)
-  - [3.3.1 findShelters](./problems/3.3.1%20findShelters.md)
-  - [3.3.2 addSmart](./problems/3.3.2%20addSmart.md)
-  - [3.3.3 computeFibonacci](./problems/3.3.3%20computeFibonacci.md)
+Karel by fredoverflow
+https://github.com/fredoverflow/karel
+
+
+
+
+Made with :heart:
